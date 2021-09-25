@@ -78,6 +78,9 @@ ul {
   margin: auto;
 }
 
+.tile-img {
+  width: 100%;
+}
 
 .pigTile {
   display: inline;
